@@ -4,6 +4,11 @@ To activate it on your profile, create a public repository named exactly "ayush3
 -->
 
 <div align="center">
+  <img src="assets/ayush-banner.svg" alt="Ayush Maurya — banner" />
+  <br/>
+</div>
+
+<div align="center">
 
 # Hi, I'm Ayush 👋
 
