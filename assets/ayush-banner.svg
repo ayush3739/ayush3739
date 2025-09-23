@@ -45,7 +45,7 @@
   <text x="170" y="210" class="title" fill="#ffffff">Hi, I'm Ayush 👋</text>
 
   <!-- Subtitle -->
-  <text x="800" y="275" class="subtitle" fill="#ffffff" opacity="0.9" text-anchor="middle">
+  <text x="800" y="300" class="subtitle" fill="#ffffff" opacity="0.9" text-anchor="middle">
     Student Developer • Python Learner • AI/ML Explorer
   </text>
 </svg>
