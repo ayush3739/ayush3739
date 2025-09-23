@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1600" height="400" viewBox="0 0 1600 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Ayush Maurya — Student Developer Banner</title>
-  <desc id="desc">Dark banner with neon geometric shapes and bold outlined name text.</desc>
+  <title id="title">Ayush Maurya — Profile Banner</title>
+  <desc id="desc">Dark banner with neon geometric shapes and bold greeting + role subtitle.</desc>
 
   <!-- Background -->
   <rect width="1600" height="400" fill="#0b0b0b"/>
@@ -30,16 +30,16 @@
     .subtitle { font-family: "Segoe UI", "Inter", "Poppins", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif; font-weight: 500; font-size: 42px; }
   </style>
 
-  <!-- Name with layered outline effect -->
+  <!-- Greeting with layered outline effect -->
   <!-- Back outline -->
-  <text x="170" y="210" class="title" fill="none" stroke="#ffffff" stroke-width="8" opacity="0.18">Ayush Maurya</text>
+  <text x="170" y="210" class="title" fill="none" stroke="#ffffff" stroke-width="8" opacity="0.18">Hi, I'm Ayush 👋</text>
   <!-- Offset outline -->
-  <text x="176" y="216" class="title" fill="none" stroke="#ffffff" stroke-width="6" opacity="0.35">Ayush Maurya</text>
+  <text x="176" y="216" class="title" fill="none" stroke="#ffffff" stroke-width="6" opacity="0.35">Hi, I'm Ayush 👋</text>
   <!-- Fill -->
-  <text x="170" y="210" class="title" fill="#ffffff">Ayush Maurya</text>
+  <text x="170" y="210" class="title" fill="#ffffff">Hi, I'm Ayush 👋</text>
 
   <!-- Subtitle -->
   <text x="800" y="275" class="subtitle" fill="#ffffff" opacity="0.9" text-anchor="middle">
-    Student Developer · Python · AI/ML
+    Student Developer • Python Learner • AI/ML Explorer
   </text>
 </svg>
