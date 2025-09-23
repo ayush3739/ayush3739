@@ -10,10 +10,6 @@ To activate it on your profile, create a public repository named exactly "ayush3
 
 <div align="center">
 
-# Hi, I'm Ayush 👋
-
-Student Developer • Python Learner • AI/ML Explorer
-
 [![Profile Views](https://komarev.com/ghpvc/?username=ayush3739&style=for-the-badge)](https://github.com/ayush3739)
 [![Followers](https://img.shields.io/github/followers/ayush3739?style=for-the-badge&logo=github)](https://github.com/ayush3739?tab=followers)
 [![Stars](https://img.shields.io/github/stars/ayush3739?affiliations=OWNER&style=for-the-badge&logo=github)](https://github.com/ayush3739?tab=repositories&type=source)
