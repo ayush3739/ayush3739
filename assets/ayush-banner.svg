@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="400" viewBox="0 0 1600 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ayush Maurya — Student Developer Banner</title>
+  <desc id="desc">Dark banner with neon geometric shapes and bold outlined name text.</desc>
+
+  <!-- Background -->
+  <rect width="1600" height="400" fill="#0b0b0b"/>
+
+  <!-- Geometric accents (neon) -->
+  <!-- Bottom-left quarters -->
+  <circle cx="0" cy="400" r="110" fill="#00E676"/>
+  <circle cx="150" cy="400" r="130" fill="#00E676"/>
+
+  <!-- Top-right big circle -->
+  <circle cx="1480" cy="-40" r="230" fill="#42A5F5"/>
+
+  <!-- Optional subtle grid dots (very faint) -->
+  <g opacity="0.04">
+    <defs>
+      <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+        <circle cx="1.5" cy="1.5" r="1.5" fill="#ffffff"/>
+      </pattern>
+    </defs>
+    <rect x="0" y="0" width="1600" height="400" fill="url(#dots)"/>
+  </g>
+
+  <!-- Text styles -->
+  <style>
+    .title { font-family: "Segoe UI", "Inter", "Poppins", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif; font-weight: 900; font-size: 120px; }
+    .subtitle { font-family: "Segoe UI", "Inter", "Poppins", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif; font-weight: 500; font-size: 42px; }
+  </style>
+
+  <!-- Name with layered outline effect -->
+  <!-- Back outline -->
+  <text x="170" y="210" class="title" fill="none" stroke="#ffffff" stroke-width="8" opacity="0.18">Ayush Maurya</text>
+  <!-- Offset outline -->
+  <text x="176" y="216" class="title" fill="none" stroke="#ffffff" stroke-width="6" opacity="0.35">Ayush Maurya</text>
+  <!-- Fill -->
+  <text x="170" y="210" class="title" fill="#ffffff">Ayush Maurya</text>
+
+  <!-- Subtitle -->
+  <text x="800" y="275" class="subtitle" fill="#ffffff" opacity="0.9" text-anchor="middle">
+    Student Developer · Python · AI/ML
+  </text>
+</svg>
