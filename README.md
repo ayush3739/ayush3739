@@ -39,11 +39,12 @@ To activate it on your profile, create a public repository named exactly "ayush3
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
-<!-- Python libraries you’re learning -->
+<!-- Python libraries you're learning -->
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
@@ -51,19 +52,81 @@ To activate it on your profile, create a public repository named exactly "ayush3
 
 ---
 
-## 🏗️ Featured Projects
+## 📂 Featured Project Repositories
 
-Games
-- [Snake Game](https://github.com/ayush3739/Python-100-days/tree/main/PROJECTS/Snake%20game) — Classic snake with Turtle graphics, movement + collision logic.
-- [Pong Game](https://github.com/ayush3739/Python-100-days/tree/main/PROJECTS/Pong%20game) — Two‑player paddle game built with OOP and Turtle.
+### 🐍 [Python-100-days](https://github.com/ayush3739/Python-100-days)
+> 100 Days of Python — Angela Yu's course projects showcase
 
-Advanced / Utilities
-- [Password Manager (Tkinter)](https://github.com/ayush3739/Python-100-days/tree/main/PROJECTS/Password%20Manager) — GUI app to generate and securely store passwords.
-- [Habit Tracker (Pixela API)](https://github.com/ayush3739/Python-100-days/tree/main/PROJECTS/Habit%20Tracker) — Track habits by calling the Pixela API (HTTP requests, auth, JSON).
-- [Exercise Tracker](https://github.com/ayush3739/Python-100-days/tree/main/PROJECTS/Exercise%20Tracker) — Log workouts using natural language → send to Google Sheets via API.
-- [Stock News Messenger](https://github.com/ayush3739/Python-100-days/tree/main/PROJECTS/Stock%20News%20Messenger) — Monitor stock price changes and send SMS alerts with news headlines.
+**Key Projects Inside:**
+- 🎮 **Snake Game** — Classic snake with Turtle graphics, movement + collision logic
+  - [View Code →](https://github.com/ayush3739/Python-100-days/tree/main/PROJECTS/Snake%20game)
+- 🏓 **Pong Game** — Two‑player paddle game built with OOP and Turtle
+  - [View Code →](https://github.com/ayush3739/Python-100-days/tree/main/PROJECTS/Pong%20game)
+- 🔐 **Password Manager** — Tkinter GUI app to generate and securely store passwords
+  - [View Code →](https://github.com/ayush3739/Python-100-days/tree/main/PROJECTS/Password%20Manager)
+- 📊 **Habit Tracker** — Track habits using Pixela API (HTTP requests, auth, JSON)
+  - [View Code →](https://github.com/ayush3739/Python-100-days/tree/main/PROJECTS/Habit%20Tracker)
+- 💪 **Exercise Tracker** — Log workouts with natural language → Google Sheets API
+  - [View Code →](https://github.com/ayush3739/Python-100-days/tree/main/PROJECTS/Exercise%20Tracker)
+- 📈 **Stock News Messenger** — Monitor stocks & send SMS alerts with news
+  - [View Code →](https://github.com/ayush3739/Python-100-days/tree/main/PROJECTS/Stock%20News%20Messenger)
 
-- [Explore all projects →](https://github.com/ayush3739/Python-100-days/tree/main/PROJECTS)
+**Technologies:** Python, Tkinter, APIs (REST), OOP, Turtle Graphics
+
+---
+
+### 💼 [CODSOFT](https://github.com/ayush3739/CODSOFT)
+> Internship projects for CodSoft — GUI applications & utilities
+
+**Projects Inside:**
+1. **Password Generator** — Generates strong passwords based on user input
+2. **Rock, Paper, Scissors Game (GUI)** — Interactive game with random choice logic
+3. **To-Do List App (GUI)** — Task management with add, delete, mark-done using Tkinter
+4. **Calculator App (GUI)** — Basic arithmetic calculator with clean interface
+
+**Technologies:** Python, Tkinter, Random module
+
+[📖 View Repository →](https://github.com/ayush3739/CODSOFT)
+
+---
+
+### 🌍 [Urban-Planner](https://github.com/ayush3739/Urban-Planner)
+> AI-powered safety navigation app — Zero to One Hackathon project by Team FutureFrame
+
+**Description:**  
+Routes scoring system based on real-time safety data using NASA Earthdata API for urban heat islands and water stress analysis.
+
+**Key Features:**
+- 🔥 Urban Heat Island detection using MODIS satellite data
+- 💧 Water stress monitoring with GRACE data
+- 🗺️ Safety-first route recommendations
+- 🎨 Modern UI with Next.js and TypeScript
+
+**Technologies:** TypeScript, Next.js, React, NASA Earthdata API, CMR Search
+
+[🚀 View Repository →](https://github.com/ayush3739/Urban-Planner)
+
+---
+
+### 🎯 [Projects](https://github.com/ayush3739/Projects)
+> Collection of diverse projects — Jupyter Notebooks, games, and utilities
+
+**Projects Inside:**
+- 🧠 **Quiz Game** — Interactive quiz application with OOP design
+- 📓 **Jupyter Notebooks** — Data analysis and ML experiments
+- 🎲 Various Python utilities and automation scripts
+
+**Technologies:** Python, Jupyter Notebook, OOP principles
+
+[📂 View Repository →](https://github.com/ayush3739/Projects)
+
+---
+
+### 🔧 Other Repositories
+
+- **[Java-workshop](https://github.com/ayush3739/Java-workshop)** — Java fundamentals with multithreading, synchronization & file I/O
+- **[Deploy_repo](https://github.com/ayush3739/Deploy_repo)** — TinDog project with Bootstrap components
+- **[coding-resources](https://github.com/ayush3739/coding-resources)** — Curated learning resources for web development
 
 ---
 
@@ -91,12 +154,15 @@ Advanced / Utilities
 
 ## 🚀 Hackathons & Competitive Events
 
-- Zero to One Hackathon – Campus Tank — Chandigarh University (2025)  
-  Project: AI‑powered safety navigation app that scores routes based on safety data.  
+- **Zero to One Hackathon – Campus Tank** — Chandigarh University (2025)  
+  🏆 Project: [Urban-Planner](https://github.com/ayush3739/Urban-Planner) — AI‑powered safety navigation app using NASA Earthdata API  
+  👥 Team: FutureFrame  
   Links: [Recent activity](https://www.linkedin.com/in/ayush-maurya-b39914315/recent-activity/all/)
-- “Level Up” Event — Reboot Club, NIET Greater Noida (2025)  
-  Outcome: Secured 3rd Prize with a team of five.
-- Code‑A‑Thon 2.0 — Noida Institute of Engineering & Technology (2025)  
+  
+- **"Level Up" Event** — Reboot Club, NIET Greater Noida (2025)  
+  🥉 Outcome: Secured 3rd Prize with a team of five.
+  
+- **Code‑A‑Thon 2.0** — Noida Institute of Engineering & Technology (2025)  
   Role: Participant — Solved coding challenges in a competitive setting.
 
 ---
@@ -128,7 +194,7 @@ Advanced / Utilities
 
 ---
 
-## 🤝 Let’s connect
+## 🤝 Let's connect
 
 - 💼 LinkedIn: [Ayush Maurya](https://www.linkedin.com/in/ayush-maurya-b39914315/)
 - 💌 Email: ayushmaurya21086@gmail.com
