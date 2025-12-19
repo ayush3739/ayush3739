@@ -109,14 +109,45 @@ Routes scoring system based on real-time safety data using NASA Earthdata API fo
 ---
 
 ### 🎯 [Projects](https://github.com/ayush3739/Projects)
-> Collection of diverse projects — Jupyter Notebooks, games, and utilities
+> Collection of 20+ web applications, automation tools, and Python projects
 
-**Projects Inside:**
-- 🧠 **Quiz Game** — Interactive quiz application with OOP design
-- 📓 **Jupyter Notebooks** — Data analysis and ML experiments
-- 🎲 Various Python utilities and automation scripts
+**Featured Projects Inside:**
 
-**Technologies:** Python, Jupyter Notebook, OOP principles
+- ✍️ **Blog Website** — Full-featured Flask blog with user authentication, admin controls, rich text editor (CKEditor), comments system, Gravatar avatars, and SMTP email contact form
+  - **Tech:** Flask, SQLAlchemy, Flask-Login, Bootstrap 5, SQLite
+  - [View Code →](https://github.com/ayush3739/Projects/tree/main/Blog%20Website)
+
+- ✈️ **Flight Deals Finder** — Automated flight price monitoring system with multi-destination tracking and instant WhatsApp/Email notifications
+  - **Tech:** Python, Amadeus API, Sheety API, Twilio, SMTP
+  - [View Code →](https://github.com/ayush3739/Projects/tree/main/Flight%20Deals)
+
+- ☕ **Coffee and Wifi Cafe Tracker** — Flask web app for tracking and rating cafes based on wifi, power outlets, and coffee quality
+  - **Tech:** Flask, WTForms, Bootstrap, CSV
+  - [View Code →](https://github.com/ayush3739/Projects/tree/main/Coffee%20and%20Wifi%20Cafe%20Tracker)
+
+- 💪 **Exercise Tracker** — Natural language exercise logging with automatic calorie calculation using Nutritionix API
+  - **Tech:** Python, Nutritionix API, Google Sheets API
+  - [View Code →](https://github.com/ayush3739/Projects/tree/main/Exercise%20Tracker)
+
+- 🎬 **100 Movies Scraper** — Web scraping project to extract top 100 movies list using BeautifulSoup
+  - **Tech:** Python, BeautifulSoup, requests
+  - [View Code →](https://github.com/ayush3739/Projects/tree/main/100%20movies%20to%20watch%20start)
+
+- 🎵 **Spotify Billboard Playlist** — Create Spotify playlists from Billboard Hot 100 charts
+  - **Tech:** BeautifulSoup, Spotify API
+  - [View Code →](https://github.com/ayush3739/Projects/tree/main/Spotify%20Billboard%20Playlist)
+
+**Other Notable Projects:**
+- 🤖 Instagram Follower Bot (Selenium automation)
+- 🍪 Cookie Clicker Bot (Game automation)
+- 🏋️ Gym Booking Bot (Automated slot booking)
+- 🌧️ Rain Alert (Weather-based notifications)
+- 📧 Birthday Wish Sender (Automated SMTP emails)
+- 🐍 Snake Game, Pong Game, Turtle Crossing (Turtle graphics games)
+- 🔐 Password Manager (Tkinter GUI with JSON storage)
+- ⏱️ Pomodoro Timer (Productivity tool)
+
+**Technologies:** Flask, SQLAlchemy, BeautifulSoup, Selenium, Tkinter, APIs (REST), Web Scraping, Automation
 
 [📂 View Repository →](https://github.com/ayush3739/Projects)
 
