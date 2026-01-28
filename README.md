@@ -216,9 +216,7 @@ Routes scoring system based on real-time safety data using NASA Earthdata API fo
   <img alt="Top Languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush3739&layout=compact&langs_count=8&theme=transparent" />
 </a>
 <br/>
-<a href="https://git.io/streak-stats">
-  <img alt="GitHub Streak" height="160" src="https://streak-stats.demolab.com?user=ayush3739&theme=transparent" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayush3739)](https://git.io/streak-stats)>
 
 </div>
 
