@@ -19,9 +19,9 @@ To activate it on your profile, create a public repository named exactly "ayush3
 
 ## About me
 
-- 🎓 Student actively learning Python, AI/ML, and full-stack web technologies.
+- 🎓 Student actively learning Python, AI/ML, and web technologies.
 - 🧠 Deep-diving into LLMs, AI Agents, RAG systems, and advanced Python internals.
-- 🧪 I learn by doing — 100 Days of Python, AI learning roadmap, web tech workshop.
+- 🧪 I learn by doing — 100 Days of Python, AI learning roadmap, HTML/CSS/JS fundamentals.
 - 🏁 Hackathons: Participated in 2–3 hackathons.
 - 🏅 Certifications: See below.
 - 🌱 Not an open-source contributor yet, but excited to start soon.
@@ -41,7 +41,6 @@ To activate it on your profile, create a public repository named exactly "ayush3
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -93,24 +92,6 @@ To activate it on your profile, create a public repository named exactly "ayush3
 **Technologies:** LangChain, LangGraph, OpenAI, Groq, Google GenAI, Hugging Face, Transformers, PyTorch, FastAPI, Pydantic, MongoDB, Qdrant, Redis, mem0ai, SpeechRecognition, Docker, Asyncio
 
 [🚀 View Repository →](https://github.com/ayush3739/Learning-AI)
-
----
-
-### 🌐 [Workshop-Web-Technolgies](https://github.com/ayush3739/Workshop-Web-Technolgies)
-> Web Technologies workshop — structured daily learning from HTML to PHP, JavaScript, TypeScript & full-stack projects
-
-**Topics Covered:**
-- 🌐 **Days 2–3** — HTML fundamentals & document structure
-- 🎨 **Days 4–7** — CSS (layouts, flexbox, grid, animations)
-- ⚡ **Days 7–12** — JavaScript (DOM, events, async, ES6+)
-- 📘 **Days 13–14** — TypeScript (static typing, interfaces, generics)
-- 🐘 **Days 15–17** — PHP (server-side scripting, sessions, cookies)
-- 🌤️ **Weather Checker** — JS/API-based weather app
-- 🎵 **Spotify Website Clone** — HTML/CSS front-end clone
-
-**Technologies:** HTML5, CSS3, JavaScript, TypeScript, PHP, REST APIs
-
-[📂 View Repository →](https://github.com/ayush3739/Workshop-Web-Technolgies)
 
 ---
 
@@ -294,7 +275,7 @@ Routes scoring system based on real-time safety data using NASA Earthdata API fo
 ## 📝 Now
 - 🔸 Learning: LLM engineering — AI Agents, RAG, LangGraph, Voice Agents & MCP
 - 🔸 Building: End-to-end AI Agent pipelines with memory and tool-calling
-- 🔸 Also exploring: Web Technologies (JS, TS, PHP) & full-stack development
+- 🔸 Also exploring: Web fundamentals (HTML, CSS, JavaScript)
 - 🔸 Next up: Deploy production-ready RAG + Agent systems
 
 <div align="center">
