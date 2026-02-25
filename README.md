@@ -19,9 +19,9 @@ To activate it on your profile, create a public repository named exactly "ayush3
 
 ## About me
 
-- 🎓 Student actively learning Python and exploring AI/ML.
-- 🧠 Building foundations with core Python and beginner ML libraries.
-- 🧪 I learn by doing—100 Days of Python projects, games, and automation.
+- 🎓 Student actively learning Python, AI/ML, and full-stack web technologies.
+- 🧠 Deep-diving into LLMs, AI Agents, RAG systems, and advanced Python internals.
+- 🧪 I learn by doing — 100 Days of Python, AI learning roadmap, web tech workshop.
 - 🏁 Hackathons: Participated in 2–3 hackathons.
 - 🏅 Certifications: See below.
 - 🌱 Not an open-source contributor yet, but excited to start soon.
@@ -38,20 +38,81 @@ To activate it on your profile, create a public repository named exactly "ayush3
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=222)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
-<!-- Python libraries you're learning -->
+<!-- Python / AI / ML libraries -->
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=222)
+
+<!-- AI / LLM Frameworks -->
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 ---
 
 ## 📂 Featured Project Repositories
+
+### 🤖 [Learning-AI](https://github.com/ayush3739/Learning-AI)
+> Comprehensive AI/ML & LLM engineering learning roadmap — 28 sections covering everything from Python internals to production AI Agents
+
+**Sections Covered:**
+- 🐍 **Sections 1–6** — Advanced Python: functions, OOP, closures, decorators, args/kwargs
+- ⚙️ **Sections 7–10** — Python internals: data structures, generators, comprehensions
+- 🔀 **Section 11** — Multiprocessing, Multithreading & GIL
+- ⚡ **Section 12** — Asyncio & async programming
+- 📐 **Section 13** — Pydantic for data validation
+- 🧠 **Sections 14–15** — LLM Intro: working with OpenAI, Groq, Google GenAI APIs
+- 💬 **Sections 16–17** — Prompting Techniques (Zero-shot, Few-shot, Chain-of-Thought)
+- 🤗 **Sections 18–19** — Hugging Face Transformers & Ollama with Docker
+- 🤖 **Section 20** — AI Agents (Tool calling, ReAct pattern)
+- 📚 **Section 21** — RAG Systems (Retrieval-Augmented Generation)
+- 🔁 **Section 22** — RAG with Queue systems
+- 🕸️ **Sections 23–24** — LangGraph & Multimodal AI
+- 🧩 **Sections 25–26** — Memory Layer in AI Agents (mem0ai)
+- 🗂️ **Section 27** — Graph Memory & Knowledge Graphs
+- 🎙️ **Section 28** — Voice Agents & MCP (Model Context Protocol)
+
+**Technologies:** LangChain, LangGraph, OpenAI, Groq, Google GenAI, Hugging Face, Transformers, PyTorch, FastAPI, Pydantic, MongoDB, Qdrant, Redis, mem0ai, SpeechRecognition, Docker, Asyncio
+
+[🚀 View Repository →](https://github.com/ayush3739/Learning-AI)
+
+---
+
+### 🌐 [Workshop-Web-Technolgies](https://github.com/ayush3739/Workshop-Web-Technolgies)
+> Web Technologies workshop — structured daily learning from HTML to PHP, JavaScript, TypeScript & full-stack projects
+
+**Topics Covered:**
+- 🌐 **Days 2–3** — HTML fundamentals & document structure
+- 🎨 **Days 4–7** — CSS (layouts, flexbox, grid, animations)
+- ⚡ **Days 7–12** — JavaScript (DOM, events, async, ES6+)
+- 📘 **Days 13–14** — TypeScript (static typing, interfaces, generics)
+- 🐘 **Days 15–17** — PHP (server-side scripting, sessions, cookies)
+- 🌤️ **Weather Checker** — JS/API-based weather app
+- 🎵 **Spotify Website Clone** — HTML/CSS front-end clone
+
+**Technologies:** HTML5, CSS3, JavaScript, TypeScript, PHP, REST APIs
+
+[📂 View Repository →](https://github.com/ayush3739/Workshop-Web-Technolgies)
+
+---
 
 ### 🐍 [Python-100-days](https://github.com/ayush3739/Python-100-days)
 > 100 Days of Python — Angela Yu's course projects showcase
@@ -156,7 +217,7 @@ Routes scoring system based on real-time safety data using NASA Earthdata API fo
 
 - **[Java-workshop](https://github.com/ayush3739/Java-workshop)** — Java fundamentals with multithreading, synchronization & file I/O
 - **[Deploy_repo](https://github.com/ayush3739/Deploy_repo)** — TinDog project with Bootstrap components
-- **[coding-resources](https://github.com/ayush3739/coding-resources)** — Curated learning resources for web development
+- **[coding-resources](https://github.com/ayush3739/coding-resources)** — Curated learning resources for web development & cybersecurity
 
 ---
 
@@ -231,10 +292,10 @@ Routes scoring system based on real-time safety data using NASA Earthdata API fo
 ---
 
 ## 📝 Now
-
-- 🔸 Learning: Python core + AI/ML libraries (NumPy, pandas, scikit‑learn)
-- 🔸 Building: Mini projects from 100 Days of Python
-- 🔸 Next up: Explore TensorFlow/PyTorch and simple ML projects
+- 🔸 Learning: LLM engineering — AI Agents, RAG, LangGraph, Voice Agents & MCP
+- 🔸 Building: End-to-end AI Agent pipelines with memory and tool-calling
+- 🔸 Also exploring: Web Technologies (JS, TS, PHP) & full-stack development
+- 🔸 Next up: Deploy production-ready RAG + Agent systems
 
 <div align="center">
   
