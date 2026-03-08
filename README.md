@@ -385,13 +385,13 @@ A summary of core skills and knowledge I've built through courses, projects, and
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Ayush's GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=ayush3739&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Top Languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush3739&layout=compact&langs_count=8&theme=transparent" />
 </a>
-<br/>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayush3739" alt="GitHub Streak" />
+</a>
+<br/>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img alt="Ayush's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ayush3739&bg_color=transparent&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 </a>
 </div>
 
