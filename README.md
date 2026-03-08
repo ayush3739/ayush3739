@@ -17,53 +17,83 @@ To activate it on your profile, create a public repository named exactly "ayush3
 
 </div>
 
-## About me
+## 👨‍💻 About Me
 
-- 🎓 Student actively learning Python, AI/ML, and web technologies.
-- 🧠 Deep-diving into LLMs, AI Agents, RAG systems, and advanced Python internals.
-- 🧪 I learn by doing — 100 Days of Python, AI learning roadmap, HTML/CSS/JS fundamentals.
-- 🏁 Hackathons: Participated in 2–3 hackathons.
-- 🏅 Certifications: See below.
-- 🌱 Not an open-source contributor yet, but excited to start soon.
+> **Student Developer** passionate about AI/ML, LLM Engineering, and Full-Stack Web Development.
 
-- 💼 Role: Student Developer
-- 📍 Location: Greater Noida (IST)
-- ✉️ Contact: ayushmaurya21086@gmail.com
+| | |
+|---|---|
+| 💼 **Role** | Student Developer |
+| 📍 **Location** | Greater Noida, India (IST) |
+| 🎓 **Focus** | AI/ML · LLM Engineering · Full-Stack Web Dev |
+| ✉️ **Contact** | ayushmaurya21086@gmail.com |
+| 🔗 **LinkedIn** | [Ayush Maurya](https://www.linkedin.com/in/ayush-maurya-b39914315/) |
+| 🧩 **LeetCode** | [Ayush_M370](https://leetcode.com/u/Ayush_M370/) |
+
+- 🎓 B.Tech student with a strong foundation in Python, C, C++, Java, and web technologies.
+- 🧠 Deep-diving into LLMs, AI Agents, RAG systems, LangGraph, and advanced Python internals.
+- 🛠️ I learn by doing — completed 100 Days of Python, hands-on AI learning roadmap, and multiple deployment projects.
+- 🏁 Competed in 3 hackathons, winning 3rd prize at the "Level Up" event.
+- 🚀 Deployed projects across Vercel, Railway, Render, PythonAnywhere & Netlify.
+- 🌱 Actively building full-stack AI-powered applications and looking to contribute to open-source.
 
 ---
 
-## 🔧 Toolbox
+## 🛠️ Tech Stack & Toolbox
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=222)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-<!-- Python / AI / ML libraries -->
+**AI / ML / LLM Stack**
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=222)
-
-<!-- AI / LLM Frameworks -->
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?logoColor=white)
+
+**Backend & Databases**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+**Frontend & UI**
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+
+**☁️ Deployment Platforms**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=222)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?logo=python&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 
 ---
 
@@ -202,6 +232,90 @@ Routes scoring system based on real-time safety data using NASA Earthdata API fo
 
 ---
 
+## 🎓 Education
+
+| Degree | Institution | Duration |
+|---|---|---|
+| B.Tech (Computer Science) | Noida Institute of Engineering & Technology, Greater Noida | 2023 – Present |
+
+---
+
+## ✅ What I've Learned
+
+A summary of core skills and knowledge I've built through courses, projects, and self-study:
+
+### 🐍 Python & Programming Fundamentals
+- Advanced Python: OOP, closures, decorators, generators, comprehensions, `*args`/`**kwargs`
+- Python internals: memory model, data structures, GIL, multiprocessing & multithreading
+- Async programming with `asyncio` and concurrent design patterns
+- GUI development with Tkinter; automation with Selenium
+
+### 🌐 Web Development
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Bootstrap, React, Next.js
+- **Backend:** Flask (REST APIs, authentication, SQLAlchemy, CKEditor), FastAPI
+- **Databases:** SQLite, MongoDB, Redis
+- **Scraping & Automation:** BeautifulSoup, Selenium, requests
+- **API Integration:** Twilio, Spotify, Amadeus, Nutritionix, Google Sheets, NASA Earthdata
+
+### 🤖 AI / ML / LLM Engineering
+- Data science stack: NumPy, pandas, Matplotlib, scikit-learn
+- Deep learning: PyTorch, Hugging Face Transformers, Ollama with Docker
+- LLM APIs: OpenAI, Groq, Google GenAI
+- Prompting techniques: Zero-shot, Few-shot, Chain-of-Thought
+- **AI Agents:** Tool calling, ReAct pattern, memory layers (mem0ai)
+- **RAG Systems:** Retrieval-Augmented Generation, queue-based RAG
+- **LangChain & LangGraph:** orchestration, multi-agent workflows, multimodal AI
+- Knowledge Graphs & Graph Memory
+- Voice Agents & Model Context Protocol (MCP)
+- Data validation with Pydantic
+
+### ☁️ Deployment & DevOps
+- Containerisation with Docker
+- Deployed full-stack and AI apps on **Vercel**, **Railway**, **Render**, **PythonAnywhere**, and **Netlify**
+- Version control with Git & GitHub
+
+---
+
+## 📚 What I'm Currently Learning
+
+| Topic | Status |
+|---|---|
+| 🎙️ Voice Agents & MCP (Model Context Protocol) | 🔄 In Progress |
+| 🕸️ LangGraph — advanced multi-agent workflows | 🔄 In Progress |
+| 🧩 Memory Layer in AI Agents (mem0ai, Graph Memory) | 🔄 In Progress |
+| ⚛️ React & Next.js — modern frontend development | 🔄 In Progress |
+| 🏗️ Production-grade RAG system architecture | 🔄 In Progress |
+| 📊 DSA on LeetCode — consistent daily practice | 🔄 In Progress |
+
+---
+
+## 🗺️ Future Roadmap
+
+```
+✅ Completed
+├── ✅ Complete AI/ML & LLM Engineering curriculum (28 sections)
+└── ✅ Deploy production-ready Flask & FastAPI applications
+
+2025 Q2–Q3  ████████████░░░░  In Progress
+├── 🔄 Build end-to-end RAG + Agent pipelines with memory & tool-calling
+├── 🔄 Master LangGraph multi-agent systems
+└── 🔄 Contribute to open-source AI/LLM projects
+
+2025 Q4     ░░░░░░░░░░░░░░░░  Planned
+├── 🎯 Full-stack AI SaaS product (Next.js + FastAPI + LangGraph)
+├── 🎯 Advanced DSA — reach LeetCode Knight/Guardian badge
+├── 🎯 Cloud deployment: AWS / GCP fundamentals
+└── 🎯 Internship / Junior Developer role in AI/ML or Full-Stack
+
+2026        ░░░░░░░░░░░░░░░░  Vision
+├── 🎯 Open-source contributions to LangChain / HuggingFace
+├── 🎯 Build and publish a PyPI package
+├── 🎯 Research in AI Agents and autonomous systems
+└── 🎯 Work on real-world AI products at scale
+```
+
+---
+
 ## 📈 DSA Progress
 
 [LeetCode Profile →](https://leetcode.com/u/Ayush_M370/)
@@ -273,10 +387,10 @@ Routes scoring system based on real-time safety data using NASA Earthdata API fo
 ---
 
 ## 📝 Now
-- 🔸 Learning: LLM engineering — AI Agents, RAG, LangGraph, Voice Agents & MCP
-- 🔸 Building: End-to-end AI Agent pipelines with memory and tool-calling
-- 🔸 Also exploring: Web fundamentals (HTML, CSS, JavaScript)
-- 🔸 Next up: Deploy production-ready RAG + Agent systems
+- 🔸 **Learning:** LLM engineering — AI Agents, RAG, LangGraph, Voice Agents & MCP
+- 🔸 **Building:** End-to-end AI Agent pipelines with memory and tool-calling
+- 🔸 **Exploring:** Advanced React & Next.js for full-stack projects
+- 🔸 **Next up:** Deploy production-ready RAG + Agent systems on cloud platforms
 
 <div align="center">
   
