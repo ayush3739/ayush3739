@@ -77,9 +77,8 @@ To activate it on your profile, create a public repository named exactly "ayush3
 
 **Frontend & UI**
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?logo=python&logoColor=white)
 
 **Tools & Workflow**
 
@@ -94,6 +93,23 @@ To activate it on your profile, create a public repository named exactly "ayush3
 ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=222)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?logo=python&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+
+---
+
+## ⭐ Production-Ready Projects
+
+> Projects that are fully functional, deployed, and showcase real-world skills — suitable for a developer resume.
+
+| # | Project | Tech Stack | Highlights | Live / Repo |
+|---|---------|-----------|------------|-------------|
+| 1 | 🤖 **AI Agent Pipeline** | Python, LangChain, LangGraph, FastAPI, mem0ai | Multi-agent system with memory, tool-calling & RAG; deployed end-to-end | [Repo](https://github.com/ayush3739/Learning-AI) |
+| 2 | ✍️ **Blog Website** | Flask, SQLAlchemy, Flask-Login, Bootstrap 5, SQLite | Full-featured blog — auth, admin panel, CKEditor, comments, SMTP contact | [Repo](https://github.com/ayush3739/Projects/tree/main/Blog%20Website) |
+| 3 | 🌍 **Urban Planner** (Hackathon) | TypeScript, NASA Earthdata API, CMR Search | Safety-first route scoring using satellite data; Zero to One Hackathon | [Repo](https://github.com/ayush3739/Urban-Planner) |
+| 4 | ✈️ **Flight Deals Finder** | Python, Amadeus API, Sheety API, Twilio, SMTP | Automated multi-city flight monitoring with WhatsApp & email alerts | [Repo](https://github.com/ayush3739/Projects/tree/main/Flight%20Deals) |
+| 5 | ☕ **Cafe & Wifi Tracker** | Flask, WTForms, Bootstrap, SQLite | Full CRUD web app for rating cafes — deployed on PythonAnywhere | [Repo](https://github.com/ayush3739/Projects/tree/main/Coffee%20and%20Wifi%20Cafe%20Tracker) |
+| 6 | 💪 **Exercise Tracker** | Python, Nutritionix API, Google Sheets API | Natural language workout logging with automatic calorie calculation | [Repo](https://github.com/ayush3739/Projects/tree/main/Exercise%20Tracker) |
+| 7 | 🎵 **Spotify Billboard Playlist** | Python, BeautifulSoup, Spotify API | Scrapes Billboard Hot 100 and auto-creates Spotify playlists | [Repo](https://github.com/ayush3739/Projects/tree/main/Spotify%20Billboard%20Playlist) |
+| 8 | 🔐 **Password Manager** | Python, Tkinter, JSON | GUI desktop app for generating & securely storing passwords | [Repo](https://github.com/ayush3739/Python-100-days/tree/main/PROJECTS/Password%20Manager) |
 
 ---
 
@@ -251,7 +267,7 @@ A summary of core skills and knowledge I've built through courses, projects, and
 - GUI development with Tkinter; automation with Selenium
 
 ### 🌐 Web Development
-- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Bootstrap, React, Next.js
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Bootstrap
 - **Backend:** Flask (REST APIs, authentication, SQLAlchemy, CKEditor), FastAPI
 - **Databases:** SQLite, MongoDB, Redis
 - **Scraping & Automation:** BeautifulSoup, Selenium, requests
@@ -280,12 +296,13 @@ A summary of core skills and knowledge I've built through courses, projects, and
 
 | Topic | Status |
 |---|---|
+| 🤖 Agentic AI — multi-agent systems, tool calling, ReAct & planning loops | 🔄 In Progress |
 | 🎙️ Voice Agents & MCP (Model Context Protocol) | 🔄 In Progress |
 | 🕸️ LangGraph — advanced multi-agent workflows | 🔄 In Progress |
 | 🧩 Memory Layer in AI Agents (mem0ai, Graph Memory) | 🔄 In Progress |
-| ⚛️ React & Next.js — modern frontend development | 🔄 In Progress |
+| 📊 scikit-learn — deeper ML: pipelines, ensembles, model tuning | 🔄 In Progress |
 | 🏗️ Production-grade RAG system architecture | 🔄 In Progress |
-| 📊 DSA on LeetCode — consistent daily practice | 🔄 In Progress |
+| 📈 DSA on LeetCode — consistent daily practice | 🔄 In Progress |
 
 ---
 
@@ -302,7 +319,7 @@ A summary of core skills and knowledge I've built through courses, projects, and
 └── 🔄 Contribute to open-source AI/LLM projects
 
 2025 Q4     ░░░░░░░░░░░░░░░░  Planned
-├── 🎯 Full-stack AI SaaS product (Next.js + FastAPI + LangGraph)
+├── 🎯 Full-stack AI SaaS product (FastAPI + LangGraph + Bootstrap)
 ├── 🎯 Advanced DSA — reach LeetCode Knight/Guardian badge
 ├── 🎯 Cloud deployment: AWS / GCP fundamentals
 └── 🎯 Internship / Junior Developer role in AI/ML or Full-Stack
@@ -387,9 +404,9 @@ A summary of core skills and knowledge I've built through courses, projects, and
 ---
 
 ## 📝 Now
-- 🔸 **Learning:** LLM engineering — AI Agents, RAG, LangGraph, Voice Agents & MCP
+- 🔸 **Learning:** Agentic AI — multi-agent systems, LangGraph, Voice Agents & MCP
+- 🔸 **Deepening:** scikit-learn — ML pipelines, ensembles, and model tuning
 - 🔸 **Building:** End-to-end AI Agent pipelines with memory and tool-calling
-- 🔸 **Exploring:** Advanced React & Next.js for full-stack projects
 - 🔸 **Next up:** Deploy production-ready RAG + Agent systems on cloud platforms
 
 <div align="center">
