@@ -51,6 +51,9 @@ To activate it on your profile, create a public repository named exactly "ayush3
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 **AI / ML / LLM Stack**
 
@@ -109,7 +112,6 @@ To activate it on your profile, create a public repository named exactly "ayush3
 | 5 | ☕ **Cafe & Wifi Tracker** | Flask, WTForms, Bootstrap, SQLite | Full CRUD web app for rating cafes — deployed on PythonAnywhere | [Repo](https://github.com/ayush3739/Projects/tree/main/Coffee%20and%20Wifi%20Cafe%20Tracker) |
 | 6 | 💪 **Exercise Tracker** | Python, Nutritionix API, Google Sheets API | Natural language workout logging with automatic calorie calculation | [Repo](https://github.com/ayush3739/Projects/tree/main/Exercise%20Tracker) |
 | 7 | 🎵 **Spotify Billboard Playlist** | Python, BeautifulSoup, Spotify API | Scrapes Billboard Hot 100 and auto-creates Spotify playlists | [Repo](https://github.com/ayush3739/Projects/tree/main/Spotify%20Billboard%20Playlist) |
-| 8 | 🔐 **Password Manager** | Python, Tkinter, JSON | GUI desktop app for generating & securely storing passwords | [Repo](https://github.com/ayush3739/Python-100-days/tree/main/PROJECTS/Password%20Manager) |
 
 ---
 

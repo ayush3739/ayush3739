@@ -30,22 +30,16 @@
   <!-- Top-right big circle -->
   <circle cx="1480" cy="-40" r="230" fill="#60A5FA" opacity="0.88"/> <!-- Dark Blue -->
 
-  <!-- Text styles -->
-  <style>
-    .title { font-family: "Segoe UI", "Inter", "Poppins", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif; font-weight: 900; font-size: 120px; }
-    .subtitle { font-family: "Segoe UI", "Inter", "Poppins", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif; font-weight: 500; font-size: 42px; }
-  </style>
-
   <!-- Greeting with layered outline effect -->
   <!-- Back outline -->
-  <text x="170" y="210" class="title" fill="none" stroke="#ffffff" stroke-width="8" opacity="0.18">Hi, I'm Ayush 👋</text>
+  <text x="170" y="210" style="font-family: 'Segoe UI', 'Inter', 'Poppins', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; font-weight: 900; font-size: 120px;" fill="none" stroke="#ffffff" stroke-width="8" opacity="0.18">Hi, I'm Ayush 👋</text>
   <!-- Offset outline -->
-  <text x="176" y="216" class="title" fill="none" stroke="#ffffff" stroke-width="6" opacity="0.35">Hi, I'm Ayush 👋</text>
+  <text x="176" y="216" style="font-family: 'Segoe UI', 'Inter', 'Poppins', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; font-weight: 900; font-size: 120px;" fill="none" stroke="#ffffff" stroke-width="6" opacity="0.35">Hi, I'm Ayush 👋</text>
   <!-- Fill -->
-  <text x="170" y="210" class="title" fill="#ffffff">Hi, I'm Ayush 👋</text>
+  <text x="170" y="210" style="font-family: 'Segoe UI', 'Inter', 'Poppins', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; font-weight: 900; font-size: 120px;" fill="#ffffff">Hi, I'm Ayush 👋</text>
 
   <!-- Subtitle -->
-  <text x="800" y="300" class="subtitle" fill="#ffffff" opacity="0.9" text-anchor="middle">
+  <text x="800" y="300" style="font-family: 'Segoe UI', 'Inter', 'Poppins', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; font-weight: 500; font-size: 42px;" fill="#ffffff" opacity="0.9" text-anchor="middle">
     Student Developer • Python Learner • AI/ML Explorer
   </text>
 </svg>
