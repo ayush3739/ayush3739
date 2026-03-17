@@ -106,12 +106,13 @@ To activate it on your profile, create a public repository named exactly "ayush3
 | # | Project | Tech Stack | Highlights | Live / Repo |
 |---|---------|-----------|------------|-------------|
 | 1 | 🤖 **AI Agent Pipeline** | Python, LangChain, LangGraph, FastAPI, mem0ai | Multi-agent system with memory, tool-calling & RAG; deployed end-to-end | [Repo](https://github.com/ayush3739/Learning-AI) |
-| 2 | ✍️ **Blog Website** | Flask, SQLAlchemy, Flask-Login, Bootstrap 5, SQLite | Full-featured blog — auth, admin panel, CKEditor, comments, SMTP contact | [Repo](https://github.com/ayush3739/Projects/tree/main/Blog%20Website) |
-| 3 | 🌍 **Urban Planner** (Hackathon) | TypeScript, NASA Earthdata API, CMR Search | Safety-first route scoring using satellite data; Zero to One Hackathon | [Repo](https://github.com/ayush3739/Urban-Planner) |
-| 4 | ✈️ **Flight Deals Finder** | Python, Amadeus API, Sheety API, Twilio, SMTP | Automated multi-city flight monitoring with WhatsApp & email alerts | [Repo](https://github.com/ayush3739/Projects/tree/main/Flight%20Deals) |
-| 5 | ☕ **Cafe & Wifi Tracker** | Flask, WTForms, Bootstrap, SQLite | Full CRUD web app for rating cafes — deployed on PythonAnywhere | [Repo](https://github.com/ayush3739/Projects/tree/main/Coffee%20and%20Wifi%20Cafe%20Tracker) |
-| 6 | 💪 **Exercise Tracker** | Python, Nutritionix API, Google Sheets API | Natural language workout logging with automatic calorie calculation | [Repo](https://github.com/ayush3739/Projects/tree/main/Exercise%20Tracker) |
-| 7 | 🎵 **Spotify Billboard Playlist** | Python, BeautifulSoup, Spotify API | Scrapes Billboard Hot 100 and auto-creates Spotify playlists | [Repo](https://github.com/ayush3739/Projects/tree/main/Spotify%20Billboard%20Playlist) |
+| 2 | 📚 **RAG-QA** | Python, LangChain, Qdrant, Streamlit, OpenAI, GitHub Models | Upload any PDF → index → chat; streamed answers with page refs & hallucination guard | [Repo](https://github.com/ayush3739/RAG-QA) |
+| 3 | ✍️ **Blog Website** | Flask, SQLAlchemy, Flask-Login, Bootstrap 5, SQLite | Full-featured blog — auth, admin panel, CKEditor, comments, SMTP contact | [Repo](https://github.com/ayush3739/Projects/tree/main/Blog%20Website) |
+| 4 | 🌍 **Urban Planner** (Hackathon) | TypeScript, NASA Earthdata API, CMR Search | Safety-first route scoring using satellite data; Zero to One Hackathon | [Repo](https://github.com/ayush3739/Urban-Planner) |
+| 5 | ✈️ **Flight Deals Finder** | Python, Amadeus API, Sheety API, Twilio, SMTP | Automated multi-city flight monitoring with WhatsApp & email alerts | [Repo](https://github.com/ayush3739/Projects/tree/main/Flight%20Deals) |
+| 6 | ☕ **Cafe & Wifi Tracker** | Flask, WTForms, Bootstrap, SQLite | Full CRUD web app for rating cafes — deployed on PythonAnywhere | [Repo](https://github.com/ayush3739/Projects/tree/main/Coffee%20and%20Wifi%20Cafe%20Tracker) |
+| 7 | 💪 **Exercise Tracker** | Python, Nutritionix API, Google Sheets API | Natural language workout logging with automatic calorie calculation | [Repo](https://github.com/ayush3739/Projects/tree/main/Exercise%20Tracker) |
+| 8 | 🎵 **Spotify Billboard Playlist** | Python, BeautifulSoup, Spotify API | Scrapes Billboard Hot 100 and auto-creates Spotify playlists | [Repo](https://github.com/ayush3739/Projects/tree/main/Spotify%20Billboard%20Playlist) |
 
 ---
 
@@ -140,6 +141,27 @@ To activate it on your profile, create a public repository named exactly "ayush3
 **Technologies:** LangChain, LangGraph, OpenAI, Groq, Google GenAI, Hugging Face, Transformers, PyTorch, FastAPI, Pydantic, MongoDB, Qdrant, Redis, mem0ai, SpeechRecognition, Docker, Asyncio
 
 [🚀 View Repository →](https://github.com/ayush3739/Learning-AI)
+
+---
+
+### 📚 [RAG-QA](https://github.com/ayush3739/RAG-QA)
+> Upload any PDF → Index it → Chat with it. Answers are grounded purely in your document — hallucination-free.
+
+**What it does:**
+- 📄 **Upload** a PDF — saved locally, ready to index
+- 🔍 **Index** — chunked with `RecursiveCharacterTextSplitter`, embedded via `text-embedding-3-large`, stored in Qdrant vector DB
+- 💬 **Chat** — ask anything; get streamed, context-grounded answers with page references
+- 🚫 **Hallucination guard** — if the answer isn't in the PDF, the system explicitly says so
+
+**Key Features:**
+- ⚡ Token-by-token streaming responses via Streamlit
+- 📑 Multi-collection support — switch between indexed PDFs instantly
+- 🐳 Qdrant vector DB running in Docker for fast similarity search
+- 🔗 End-to-end LangChain pipeline: load → chunk → embed → retrieve → answer
+
+**Technologies:** Python, LangChain, Qdrant, Streamlit, OpenAI (`text-embedding-3-large`, `gpt-4o-mini` via GitHub Models), Docker, PyPDFLoader
+
+[📚 View Repository →](https://github.com/ayush3739/RAG-QA)
 
 ---
 
