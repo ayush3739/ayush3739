@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="Ayush Maurya — AI Engineer & Full-Stack Developer. B.Tech CS student building multi-agent pipelines, RAG systems, and LangGraph workflows. Open to internships and collaborations." />
+<meta property="og:title" content="Ayush Maurya — AI Engineer & Developer" />
+<meta property="og:description" content="B.Tech student building AI systems end-to-end. Multi-agent pipelines, RAG architectures, LangGraph workflows — from idea to deployed product." />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Ayush Maurya — AI Engineer & Developer" />
+<meta name="twitter:description" content="B.Tech student building AI systems end-to-end. Multi-agent pipelines, RAG architectures, LangGraph workflows." />
+<title>Ayush Maurya — AI Engineer & Developer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=Instrument+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet" />
+
+<link rel="stylesheet" href="style/style.css" />
+</head>
+<body>
+
+<!-- Custom Cursor -->
+<div id="cursor"></div>
+<div id="cursor-ring"></div>
+
+<!-- ─── NAV ─────────────────────────────────────── -->
+<nav>
+  <a href="#hero" class="nav-logo">AYUSH<span> . </span>MAURYA</a>
+  <ul class="nav-links">
+    <li><a href="#about">About</a></li>
+    <li><a href="#projects">Work</a></li>
+    <li><a href="#skills">Stack</a></li>
+    <li><a href="assets/Ayush-resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+  <div class="nav-status">
+    <div class="nav-dot"></div>
+    Available for work
+  </div>
+</nav>
+
+<!-- ─── HERO ─────────────────────────────────────── -->
+<section id="hero">
+  <div class="hero-grid-line"></div>
+
+  <!-- LEFT: Text content -->
+  <div class="hero-left">
+    <div class="hero-eyebrow">
+      <div class="hero-eyebrow-line"></div>
+      <span class="hero-eyebrow-text">Aspiring AI Engineer + Full-Stack Developer</span>
+    </div>
+
+    <div class="hero-name">
+      CRAFT<br/>
+      <span class="outline">BEYOND</span>
+    </div>
+    <div class="hero-name red" style="margin-bottom:40px;">CODE.</div>
+
+    <p class="hero-desc">
+      B.Tech student obsessed with building AI systems that feel inevitable.
+      Multi-agent pipelines, RAG architectures, LangGraph workflows —
+      from idea to deployed product.
+    </p>
+
+    <div class="hero-actions">
+      <a href="#projects" class="btn-primary">
+        View Work
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M1 13L13 1M13 1H4M13 1V10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </a>
+      <a href="assets/Ayush-resume.pdf" target="_blank" rel="noopener noreferrer" class="btn-secondary">View Resume</a>
+      <a href="#contact" class="btn-secondary">Get In Touch</a>
+    </div>
+  </div>
+
+  <!-- RIGHT: Portrait -->
+  <div class="hero-right">
+    <div class="portrait-wrap" id="portraitWrap">
+
+      <!-- Orbital rings -->
+      <div class="portrait-ring portrait-ring-3"></div>
+      <div class="portrait-ring portrait-ring-2"></div>
+      <div class="portrait-ring portrait-ring-1"></div>
+
+      <!-- Floating tags -->
+      <div class="portrait-tag portrait-tag-1">AI Engineer</div>
+      <div class="portrait-tag portrait-tag-2">LangGraph</div>
+      <div class="portrait-tag portrait-tag-3">Full-Stack</div>
+      <div class="portrait-tag portrait-tag-4">RAG · MCP</div>
+
+      <!-- Main circle -->
+      <div class="portrait-circle" id="portraitCircle">
+        <img src="assets/Portfolio-image.png" alt="Ayush Maurya" class="portrait-img">
+        <div class="portrait-overlay"></div>
+      </div>
+
+    </div>
+  </div>
+
+</section>
+
+<!-- ─── MARQUEE ───────────────────────────────────── -->
+<div class="marquee-wrap">
+  <div class="marquee-track" id="marquee">
+    <span class="marquee-item">LangChain <span class="sep">✦</span></span>
+    <span class="marquee-item">LangGraph <span class="sep">✦</span></span>
+    <span class="marquee-item">RAG Systems <span class="sep">✦</span></span>
+    <span class="marquee-item">AI Agents <span class="sep">✦</span></span>
+    <span class="marquee-item">FastAPI <span class="sep">✦</span></span>
+    <span class="marquee-item">PyTorch <span class="sep">✦</span></span>
+    <span class="marquee-item">HuggingFace <span class="sep">✦</span></span>
+    <span class="marquee-item">OpenAI API <span class="sep">✦</span></span>
+    <span class="marquee-item">Vector Databases <span class="sep">✦</span></span>
+    <span class="marquee-item">Docker <span class="sep">✦</span></span>
+    <span class="marquee-item">MongoDB <span class="sep">✦</span></span>
+    <span class="marquee-item">mem0ai <span class="sep">✦</span></span>
+    <span class="marquee-item">Voice Agents <span class="sep">✦</span></span>
+    <span class="marquee-item">MCP Protocol <span class="sep">✦</span></span>
+    <!-- duplicate for infinite -->
+    <span class="marquee-item">LangChain <span class="sep">✦</span></span>
+    <span class="marquee-item">LangGraph <span class="sep">✦</span></span>
+    <span class="marquee-item">RAG Systems <span class="sep">✦</span></span>
+    <span class="marquee-item">AI Agents <span class="sep">✦</span></span>
+    <span class="marquee-item">FastAPI <span class="sep">✦</span></span>
+    <span class="marquee-item">PyTorch <span class="sep">✦</span></span>
+    <span class="marquee-item">HuggingFace <span class="sep">✦</span></span>
+    <span class="marquee-item">OpenAI API <span class="sep">✦</span></span>
+    <span class="marquee-item">Vector Databases <span class="sep">✦</span></span>
+    <span class="marquee-item">Docker <span class="sep">✦</span></span>
+    <span class="marquee-item">MongoDB <span class="sep">✦</span></span>
+    <span class="marquee-item">mem0ai <span class="sep">✦</span></span>
+    <span class="marquee-item">Voice Agents <span class="sep">✦</span></span>
+    <span class="marquee-item">MCP Protocol <span class="sep">✦</span></span>
+  </div>
+</div>
+
+<!-- ─── ABOUT ─────────────────────────────────────── -->
+<section id="about" class="section-pad section-grid-two">
+  <div class="reveal">
+    <div class="section-eyebrow">
+      <div class="section-eyebrow-line"></div>
+      <span class="section-eyebrow-text">01 — About</span>
+    </div>
+    <h2 class="about-headline">
+      Building AI<br/>
+      <span class="accent">systems</span><br/>
+      from scratch.
+    </h2>
+    <p class="about-body">
+      I'm a <strong>B.Tech Computer Science student</strong> at NIET Greater Noida with a singular focus: 
+      understanding and building intelligent systems end-to-end. Not just using APIs — actually 
+      understanding the internals.
+    </p>
+    <p class="about-body">
+      From Python internals and asyncio to <strong>multi-agent architectures</strong>, RAG pipelines, 
+      and production-deployed Flask/FastAPI applications — I learn by building, breaking, and 
+      rebuilding. Competed in 3 hackathons, won 3rd prize at Level Up Event.
+    </p>
+    <div class="about-tags">
+      <span class="about-tag">AI Agents</span>
+      <span class="about-tag">LLM Engineering</span>
+      <span class="about-tag">Full-Stack</span>
+      <span class="about-tag">RAG Systems</span>
+      <span class="about-tag">Python</span>
+      <span class="about-tag">Open Source</span>
+    </div>
+  </div>
+
+  <div class="reveal reveal-delay-1">
+    <div class="section-eyebrow section-eyebrow-hidden">
+      <div class="section-eyebrow-line"></div>
+    </div>
+    <div class="about-right">
+      <div class="about-detail-row">
+        <span class="about-detail-key">Degree</span>
+        <span class="about-detail-val">B.Tech Computer Science, 2023–Present</span>
+      </div>
+      <div class="about-detail-row">
+        <span class="about-detail-key">Institution</span>
+        <span class="about-detail-val">NIET, Greater Noida</span>
+      </div>
+      <div class="about-detail-row">
+        <span class="about-detail-key">Location</span>
+        <span class="about-detail-val">Greater Noida, India (IST)</span>
+      </div>
+      <div class="about-detail-row">
+        <span class="about-detail-key">Email</span>
+        <span class="about-detail-val"><a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushmaurya21086@gmail.com&su=Portfolio%20Inquiry" target="_blank" rel="noopener noreferrer">ayushmaurya21086@gmail.com</a></span>
+      </div>
+      <div class="about-detail-row">
+        <span class="about-detail-key">GitHub</span>
+        <span class="about-detail-val"><a href="https://github.com/ayush3739" target="_blank" rel="noopener noreferrer">ayush3739</a></span>
+      </div>
+      <div class="about-detail-row">
+        <span class="about-detail-key">LinkedIn</span>
+        <span class="about-detail-val"><a href="https://www.linkedin.com/in/ayush-maurya-b39914315/" target="_blank" rel="noopener noreferrer">Ayush Maurya</a></span>
+      </div>
+      <div class="about-detail-row">
+        <span class="about-detail-key">LeetCode</span>
+        <span class="about-detail-val"><a href="https://leetcode.com/u/Ayush_M370/" target="_blank" rel="noopener noreferrer">Ayush_M370</a></span>
+      </div>
+      <div class="about-detail-row">
+        <span class="about-detail-key">Focus — 2026</span>
+        <span class="about-detail-val">Agentic AI · Voice Agents · MCP</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ─── PROJECTS ───────────────────────────────────── -->
+<section id="projects" class="section-pad">
+  <div class="section-eyebrow reveal">
+    <div class="section-eyebrow-line"></div>
+    <span class="section-eyebrow-text">02 — Selected Work</span>
+    <span class="section-eyebrow-count">08 projects</span>
+  </div>
+
+  <div class="projects-grid reveal">
+
+    <!-- FEATURED: AI Agent Pipeline -->
+    <div class="project-card featured">
+      <div>
+        <div class="project-num">01 — Featured</div>
+        <div class="project-tags">
+          <span class="project-tag">Python</span>
+          <span class="project-tag">LangGraph</span>
+          <span class="project-tag">FastAPI</span>
+          <span class="project-tag">mem0ai</span>
+          <span class="project-tag">RAG</span>
+        </div>
+        <h3 class="project-title">AI Agent Pipeline</h3>
+        <p class="project-desc">
+          Multi-agent system with persistent memory, tool-calling, and retrieval-augmented generation. 
+          Built end-to-end with LangChain, LangGraph orchestration and mem0ai memory layer. 
+          Deployed and production-ready.
+        </p>
+        <a href="https://github.com/ayush3739/Learning-AI" target="_blank" rel="noopener noreferrer" class="project-link">
+          View Repository
+          <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M1 11L11 1M11 1H3M11 1V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+        </a>
+      </div>
+      <div class="featured-right">
+        <div>
+          <p class="project-desc featured-note">28 sections from Python internals → Production AI Agents</p>
+          <div class="featured-modules">
+            <div class="featured-module">Tool Calling</div>
+            <div class="featured-module">ReAct Pattern</div>
+            <div class="featured-module">Graph Memory</div>
+            <div class="featured-module">Voice Agents</div>
+            <div class="featured-module">Multi-Modal</div>
+            <div class="featured-module">MCP Protocol</div>
+          </div>
+        </div>
+        <div class="project-highlight featured-pin"></div>
+      </div>
+    </div>
+
+    <!-- RAG-QA -->
+    <div class="project-card">
+      <div class="project-highlight"></div>
+      <div class="project-num">02</div>
+      <div class="project-tags">
+        <span class="project-tag">Python</span>
+        <span class="project-tag">LangChain</span>
+        <span class="project-tag">Qdrant</span>
+        <span class="project-tag">Streamlit</span>
+        <span class="project-tag">OpenAI</span>
+      </div>
+      <h3 class="project-title">RAG-QA</h3>
+      <p class="project-desc">
+        Upload any PDF → index → chat. Intelligent RAG system with streamed answers, page references,
+        and hallucination guard. Built with LangChain, Qdrant vector store, and GitHub Models integration.
+      </p>
+      <a href="https://github.com/ayush3739/RAG-QA" target="_blank" rel="noopener noreferrer" class="project-link">
+        See Project
+        <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M1 11L11 1M11 1H3M11 1V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </a>
+    </div>
+
+    <!-- Urban Planner -->
+    <div class="project-card">
+      <div class="project-highlight"></div>
+      <div class="project-num">03</div>
+      <div class="project-tags">
+        <span class="project-tag">TypeScript</span>
+        <span class="project-tag">Next.js</span>
+      </div>
+      <h3 class="project-title">Urban Planner</h3>
+      <p class="project-desc">
+        Safety-first route scoring using NASA Earthdata satellite data. MODIS urban heat island detection 
+        and GRACE water stress monitoring. Built for Zero to One Hackathon with Team FutureFrame.
+      </p>
+      <a href="https://github.com/ayush3739/Urban-Planner" target="_blank" rel="noopener noreferrer" class="project-link">
+        See Project
+        <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M1 11L11 1M11 1H3M11 1V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </a>
+    </div>
+
+    <!-- Blog Website -->
+    <div class="project-card">
+      <div class="project-highlight"></div>
+      <div class="project-num">04</div>
+      <div class="project-tags">
+        <span class="project-tag">Flask</span>
+        <span class="project-tag">SQLAlchemy</span>
+      </div>
+      <h3 class="project-title">Blog Website</h3>
+      <p class="project-desc">
+        Full-featured blog platform with user authentication, admin panel, CKEditor rich text, 
+        comment system, Gravatar integration, and SMTP email contact. Deployed on PythonAnywhere.
+      </p>
+      <a href="https://github.com/ayush3739/Projects" target="_blank" rel="noopener noreferrer" class="project-link">
+        See Project
+        <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M1 11L11 1M11 1H3M11 1V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </a>
+    </div>
+
+    <!-- Flight Deals -->
+    <div class="project-card">
+      <div class="project-highlight"></div>
+      <div class="project-num">05</div>
+      <div class="project-tags">
+        <span class="project-tag">Python</span>
+        <span class="project-tag">Amadeus API</span>
+      </div>
+      <h3 class="project-title">Flight Deals Finder</h3>
+      <p class="project-desc">
+        Automated multi-city flight price monitoring with instant WhatsApp and email alerts 
+        using Amadeus, Sheety, and Twilio APIs. Runs continuously to track deals.
+      </p>
+      <a href="https://github.com/ayush3739/Projects" target="_blank" rel="noopener noreferrer" class="project-link">
+        See Project
+        <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M1 11L11 1M11 1H3M11 1V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </a>
+    </div>
+
+    <!-- Cafe Tracker -->
+    <div class="project-card">
+      <div class="project-highlight"></div>
+      <div class="project-num">06</div>
+      <div class="project-tags">
+        <span class="project-tag">Flask</span>
+        <span class="project-tag">WTForms</span>
+      </div>
+      <h3 class="project-title">Cafe & Wifi Tracker</h3>
+      <p class="project-desc">
+        Full CRUD web application for rating cafes on wifi, coffee quality, and power outlets. 
+        Clean UI with Bootstrap, deployed live on PythonAnywhere.
+      </p>
+      <a href="https://github.com/ayush3739/Projects" target="_blank" rel="noopener noreferrer" class="project-link">
+        See Project
+        <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M1 11L11 1M11 1H3M11 1V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </a>
+    </div>
+
+    <!-- Spotify -->
+    <div class="project-card">
+      <div class="project-highlight"></div>
+      <div class="project-num">07</div>
+      <div class="project-tags">
+        <span class="project-tag">Python</span>
+        <span class="project-tag">BeautifulSoup</span>
+      </div>
+      <h3 class="project-title">Spotify Billboard Playlist</h3>
+      <p class="project-desc">
+        Scrapes Billboard Hot 100 for any date and auto-creates a matching Spotify playlist. 
+        OAuth authentication, web scraping, and API integration combined.
+      </p>
+      <a href="https://github.com/ayush3739/Projects" target="_blank" rel="noopener noreferrer" class="project-link">
+        See Project
+        <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M1 11L11 1M11 1H3M11 1V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </a>
+    </div>
+
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ─── SKILLS ─────────────────────────────────────── -->
+<section id="skills" class="section-pad section-surface">
+  <div class="section-eyebrow reveal">
+    <div class="section-eyebrow-line"></div>
+    <span class="section-eyebrow-text">03 — Tech Stack</span>
+  </div>
+
+  <div class="skills-grid reveal">
+    <div class="skill-group">
+      <div class="skill-group-title">AI / LLM</div>
+      <ul class="skill-list">
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">LangChain</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">LangGraph</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">OpenAI API</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">Groq</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">HuggingFace</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">mem0ai</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">Ollama + Docker</span></li>
+      </ul>
+    </div>
+    <div class="skill-group">
+      <div class="skill-group-title">Backend</div>
+      <ul class="skill-list">
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">Python</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">FastAPI</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">Flask</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">Pydantic</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">Asyncio</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">Docker</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">REST APIs</span></li>
+      </ul>
+    </div>
+    <div class="skill-group">
+      <div class="skill-group-title">Data & DB</div>
+      <ul class="skill-list">
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">PyTorch</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">NumPy / pandas</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">scikit-learn</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">MongoDB</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">Redis</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">SQLite</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">Qdrant</span></li>
+      </ul>
+    </div>
+    <div class="skill-group">
+      <div class="skill-group-title">Frontend & Deploy</div>
+      <ul class="skill-list">
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">TypeScript / JS</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">HTML5 / CSS3</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">Vercel</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">Railway / Render</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">PythonAnywhere</span></li>
+        <li class="skill-item"><div class="skill-dot"></div><span class="skill-name">Git / GitHub</span></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="skills-tags reveal">
+    <span class="skill-badge">Python</span>
+    <span class="skill-badge">C / C++</span>
+    <span class="skill-badge">Java</span>
+    <span class="skill-badge">Selenium</span>
+    <span class="skill-badge">BeautifulSoup</span>
+    <span class="skill-badge">Tkinter</span>
+    <span class="skill-badge">SQLAlchemy</span>
+    <span class="skill-badge">Bootstrap</span>
+    <span class="skill-badge">Matplotlib</span>
+    <span class="skill-badge">Transformers</span>
+    <span class="skill-badge">Zero-Shot</span>
+    <span class="skill-badge">Few-Shot</span>
+    <span class="skill-badge">Chain-of-Thought</span>
+    <span class="skill-badge">Graph Memory</span>
+    <span class="skill-badge">Knowledge Graphs</span>
+    <span class="skill-badge">Voice Agents</span>
+    <span class="skill-badge">MCP Protocol</span>
+    <span class="skill-badge">Multiprocessing</span>
+    <span class="skill-badge">Asyncio</span>
+    <span class="skill-badge">Markdown</span>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ─── TIMELINE ─────────────────────────────────── -->
+<section id="timeline" class="section-pad">
+  <div class="section-eyebrow reveal">
+    <div class="section-eyebrow-line"></div>
+    <span class="section-eyebrow-text">04 — Experience</span>
+  </div>
+
+  <div class="timeline-list">
+
+    <div class="timeline-item reveal">
+      <div class="timeline-year">2026</div>
+      <div class="timeline-bar"></div>
+      <div class="timeline-content">
+        <div class="timeline-event">Agentic AI & MCP</div>
+        <div class="timeline-org">Self-directed · In Progress</div>
+        <div class="timeline-desc">
+          Building production-grade multi-agent systems with LangGraph, implementing voice agents, 
+          and exploring Model Context Protocol (MCP) integrations. Deep-diving into graph memory 
+          and knowledge graph architectures.
+        </div>
+        <span class="timeline-badge">🔄 In Progress</span>
+      </div>
+    </div>
+
+    <div class="timeline-item reveal">
+      <div class="timeline-year">2025</div>
+      <div class="timeline-bar"></div>
+      <div class="timeline-content">
+        <div class="timeline-event">Zero to One Hackathon — Urban Planner</div>
+        <div class="timeline-org">Chandigarh University · Team FutureFrame</div>
+        <div class="timeline-desc">
+          Built an AI-powered safety navigation system using NASA Earthdata API for satellite-based 
+          urban heat island detection and water stress analysis. TypeScript + Next.js full-stack implementation.
+        </div>
+        <span class="timeline-badge">✦ Hackathon</span>
+      </div>
+    </div>
+
+    <div class="timeline-item reveal">
+      <div class="timeline-year">2025</div>
+      <div class="timeline-bar"></div>
+      <div class="timeline-content">
+        <div class="timeline-event">"Level Up" Event — 3rd Prize 🥉</div>
+        <div class="timeline-org">Reboot Club · NIET Greater Noida</div>
+        <div class="timeline-desc">
+          Secured 3rd prize as part of a five-person team in a competitive development event 
+          at the Reboot Club, NIET.
+        </div>
+        <span class="timeline-badge">🏆 Winner</span>
+      </div>
+    </div>
+
+    <div class="timeline-item reveal">
+      <div class="timeline-year">2025</div>
+      <div class="timeline-bar"></div>
+      <div class="timeline-content">
+        <div class="timeline-event">Student Internship — CodSoft</div>
+        <div class="timeline-org">CodSoft · CIP Program</div>
+        <div class="timeline-desc">
+          Built multiple production Python GUI applications: Password Generator, Rock Paper Scissors 
+          game with random logic, To-Do List App, and Calculator — all with Tkinter interfaces.
+        </div>
+        <span class="timeline-badge">✦ Internship</span>
+      </div>
+    </div>
+
+    <div class="timeline-item reveal">
+      <div class="timeline-year">2025</div>
+      <div class="timeline-bar"></div>
+      <div class="timeline-content">
+        <div class="timeline-event">AI/ML Engineering Curriculum — 28 Sections</div>
+        <div class="timeline-org">Self-directed · Learning-AI Repository</div>
+        <div class="timeline-desc">
+          Completed a comprehensive 28-section AI/ML engineering curriculum covering Python internals, 
+          LLM APIs, RAG systems, multi-agent workflows, memory layers, and voice agents.
+        </div>
+        <span class="timeline-badge">✅ Completed</span>
+      </div>
+    </div>
+
+    <div class="timeline-item reveal">
+      <div class="timeline-year">2024</div>
+      <div class="timeline-bar"></div>
+      <div class="timeline-content">
+        <div class="timeline-event">B.Tech Computer Science</div>
+        <div class="timeline-org">NIET · Greater Noida, India</div>
+        <div class="timeline-desc">
+          Pursuing B.Tech in Computer Science with a focus on AI/ML, LLM Engineering, and 
+          Full-Stack Web Development. Strong foundation in Python, C, C++, Java, and web technologies.
+        </div>
+        <span class="timeline-badge">🎓 2024 – Present</span>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ─── CONTACT ───────────────────────────────────── -->
+<section id="contact">
+  <div class="reveal">
+    <p class="contact-kicker">05 — Get In Touch</p>
+    <h2 class="contact-headline">
+      LET'S<br/>
+      <span class="outline">BUILD</span><br/>
+      TOGETHER.
+    </h2>
+    <p class="contact-sub">
+      Open to internships, collaborations, and interesting AI/ML projects. 
+      If you're building something that matters, let's talk.
+    </p>
+    <div class="contact-links">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushmaurya21086@gmail.com&su=Portfolio%20Inquiry" target="_blank" rel="noopener noreferrer" class="contact-link primary">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><rect x="1" y="2.5" width="12" height="9" rx="1" stroke="currentColor" stroke-width="1.3"/><path d="M1 4l6 4 6-4" stroke="currentColor" stroke-width="1.3"/></svg>
+        Send Email
+      </a>
+      <a href="https://www.linkedin.com/in/ayush-maurya-b39914315/" target="_blank" rel="noopener noreferrer" class="contact-link">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><rect x="1" y="1" width="12" height="12" rx="2" stroke="currentColor" stroke-width="1.3"/><path d="M4 6v4M4 4v.5M7 10V7.5a1.5 1.5 0 013 0V10M7 6v4" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/></svg>
+        LinkedIn
+      </a>
+      <a href="https://github.com/ayush3739" target="_blank" rel="noopener noreferrer" class="contact-link">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M7 1C3.686 1 1 3.686 1 7c0 2.652 1.72 4.905 4.103 5.7.3.055.41-.13.41-.288 0-.143-.005-.52-.008-1.022-1.67.363-2.023-.805-2.023-.805-.273-.694-.667-0.879-.667-.879-.545-.373.041-.365.041-.365.603.042.92.619.92.619.536.918 1.407.653 1.75.499.054-.388.21-.653.38-.803-1.333-.152-2.734-.667-2.734-2.967 0-.655.234-1.191.619-1.61-.062-.152-.268-.762.059-1.588 0 0 .504-.162 1.652.616A5.75 5.75 0 017 4.983c.51.002 1.023.069 1.503.202 1.147-.778 1.65-.616 1.65-.616.328.826.122 1.436.06 1.588.385.419.618.955.618 1.61 0 2.306-1.403 2.813-2.74 2.962.216.186.408.552.408 1.112 0 .803-.007 1.45-.007 1.648 0 .16.108.347.413.288C11.281 11.903 13 9.65 13 7c0-3.314-2.686-6-6-6z" fill="currentColor"/></svg>
+        GitHub
+      </a>
+      <a href="https://leetcode.com/u/Ayush_M370/" target="_blank" rel="noopener noreferrer" class="contact-link">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M13.483 0a1.374 1.374 0 0 0-.961.438L7.116 6.226l-3.854 4.126a5.266 5.266 0 0 0-1.209 2.104 5.35 5.35 0 0 0-.125.513 5.527 5.527 0 0 0 .062 2.362 5.83 5.83 0 0 0 .349 1.017 5.938 5.938 0 0 0 1.271 1.818l4.277 4.193.039.038c2.248 2.165 5.852 2.133 8.063-.074l2.396-2.392c.54-.54.54-1.414.003-1.955a1.378 1.378 0 0 0-1.951-.003l-2.396 2.392a3.021 3.021 0 0 1-4.205.038l-.02-.019-4.276-4.193c-.652-.64-.972-1.469-.948-2.263a2.68 2.68 0 0 1 .066-.523 2.545 2.545 0 0 1 .619-1.164L9.13 8.114c1.058-1.134 3.204-1.27 4.43-.278l3.501 2.831c.593.48 1.461.387 1.94-.207a1.384 1.384 0 0 0-.207-1.943l-3.5-2.831c-.8-.647-1.766-1.045-2.774-1.202l2.015-2.158A1.384 1.384 0 0 0 13.483 0zm-2.866 12.815a1.38 1.38 0 0 0-1.38 1.382 1.38 1.38 0 0 0 1.38 1.382H20.79a1.38 1.38 0 0 0 1.38-1.382 1.38 1.38 0 0 0-1.38-1.382z"/></svg>
+        LeetCode
+      </a>
+      <a href="assets/Ayush-resume.pdf" target="_blank" rel="noopener noreferrer" class="contact-link">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M7 3h7l5 5v13a1 1 0 0 1-1 1H7a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z" stroke="currentColor" stroke-width="1.4"/><path d="M14 3v5h5" stroke="currentColor" stroke-width="1.4"/><path d="M9 13h6M9 17h6" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg>
+        Resume
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ─── FOOTER ────────────────────────────────────── -->
+<footer>
+  <span class="footer-copy">© 2026 Ayush Maurya</span>
+</footer>
+
+<script src="style/script.js"></script>
+</body>
+</html>
